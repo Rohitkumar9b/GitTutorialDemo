@@ -1,4 +1,1 @@
-This is a version 1 file
-I want this to go into commit 2
-change by Rohit
-this is changed
+everything has been deleted
